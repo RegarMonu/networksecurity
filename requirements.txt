@@ -1,3 +1,7 @@
 pandas
 python-dotenv
 numpy
+pymongo
+certifi
+
+# -e . #this is only used when u want to use pacakages as deploy on pypy or cloud
